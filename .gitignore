@@ -1,0 +1,7 @@
+/Data
+/.dvc/cache
+/.dvc/tmp
+DataPipeline/Processor_10K/dags/.DS_Store
+.idea
+venv/
+sec-edgar-filings/
